@@ -1,0 +1,15 @@
+{
+  "name": "digital-banking-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation suite for a sample digital banking application",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test tests --project=chromium",
+    "test:api": "node ./tests/api/run-api-tests.js",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "axios": "^1.4.0"
+  }
+}

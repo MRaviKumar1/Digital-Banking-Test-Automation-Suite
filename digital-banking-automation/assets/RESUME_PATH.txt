@@ -1,0 +1,2 @@
+User resume included in workspace at: /mnt/data/ravikumar_gsbvs.pdf
+(You can manually copy this into the repo root as Resume-Ravikumar-Manikyolla.pdf)
